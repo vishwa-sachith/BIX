@@ -15,28 +15,28 @@
       },
       "oauth_client": [
         {
-          "client_id": "579878327216-5qtbl06agm4l3q371rulrjmb8ldn3rlv.apps.googleusercontent.com",
+          "client_id": "",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.bix",
-            "certificate_hash": "340e818be3af015c0c901786f54cd36216827a74"
+            "certificate_hash": ""
           }
         },
         {
-          "client_id": "579878327216-i6aor3pn9hma0lsg9lifkf2m0tdgk8gq.apps.googleusercontent.com",
+          "client_id": "",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBvT8jQWaH88sOlIBblLOJCYDWIuHKxTgc"
+          "current_key": ""
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "579878327216-i6aor3pn9hma0lsg9lifkf2m0tdgk8gq.apps.googleusercontent.com",
+              "client_id": "",
               "client_type": 3
             }
           ]
