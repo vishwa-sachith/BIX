@@ -248,9 +248,9 @@ public class GetCurrentLocation extends AppCompatActivity {
 
                                 HttpsURLConnection con = null;
                                 try {
-                                    //URL url = new URL("https://maps.googleapis.com/maps/api/directions/json?origin="+start+"&destination="+end+"&mode=driving&key=AIzaSyD1SWFFDe_wPh_-A2Gs5kVLK7KV814_2tA");
-                                    URL url = new URL("https://maps.googleapis.com/maps/api/directions/json?origin="+start+"&destination="+end+"&mode=driving&key=AIzaSyCZiRmkC6EwQXgSqTE0VBi7-8jewvXd7Vg");
-                                    //URL url = new URL("https://maps.googleapis.com/maps/api/directions/json?origin=6.896946,79.860333&destination=6.889634,79.859135&mode=driving&key=AIzaSyDmWoljxr8CB_2nHYKIgmC-1Ks-Cu-NHn4");
+                                    //URL url = new URL("https://maps.googleapis.com/maps/api/directions/json?origin="+start+"&destination="+end+"&mode=driving&key=");
+                                    URL url = new URL("https://maps.googleapis.com/maps/api/directions/json?origin="+start+"&destination="+end+"&mode=driving&key=");
+                                    //URL url = new URL("https://maps.googleapis.com/maps/api/directions/json?origin=6.896946,79.860333&destination=6.889634,79.859135&mode=driving&key=");
                                     con = (HttpsURLConnection) url.openConnection();
                                     con.setRequestMethod("GET");
                                     //con.setDoOutput(true);
