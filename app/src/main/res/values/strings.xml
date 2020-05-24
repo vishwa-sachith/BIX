@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">BIX</string>
+    <string name="tab_text_1">Chats</string>
+    <string name="tab_text_2">Contacts</string>
+    <string name="tab_text_3">Calls</string>
+    <string name="regtitle">Create a new account</string>
+    <string name="logintitle">Login</string>
+    <string name="reg">Register</string>
+    <string name="un">User Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="profile">Profile</string>
+
+    <string name="nav_bar_open">Open</string>
+    <string name="nav_bar_close">Close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="forgotTxt">Forgot your password?</string>
+    <string name="resetMsg">By Clicking Reset, you will receive an email to reset your password.</string>
+    <string name="phone_number">Phone number</string>
+    <string name="fb_un">Facebook</string>
+    <string name="weburl">URL</string>
+    <string name="websi">Web Site</string>
+    <string name="clocation">Current Locaton</string>
+    <string name="getcloca">Get Current Location</string>
+    <string name="checkweb">Check</string>
+    <string name="visit">visit</string>
+    <string name="openinmaps">Open in google maps</string>
+
+
+</resources>

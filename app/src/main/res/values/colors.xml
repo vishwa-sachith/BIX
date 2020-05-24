@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#226e6e</color>
+    <color name="colorAccent">#226e6e</color>
+    <color name="backgroundclr">#F5F5F6</color>
+    <color name="toolbar_clr">#805ACB</color>
+    <color name="tabbar_indicator_clr">#E7B9FF</color>
+    <color name="btnclr">#B388FF</color>
+    <color name="badgeclr">#220aad</color>
+    <color name="color1">#FFFFFF</color>
+</resources>

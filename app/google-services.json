@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "579878327216",
+    "firebase_url": "https://bixdb-4ee13.firebaseio.com",
+    "project_id": "bixdb-4ee13",
+    "storage_bucket": "bixdb-4ee13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579878327216:android:2a56a42562867024",
+        "android_client_info": {
+          "package_name": "com.example.bix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579878327216-5qtbl06agm4l3q371rulrjmb8ldn3rlv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bix",
+            "certificate_hash": "340e818be3af015c0c901786f54cd36216827a74"
+          }
+        },
+        {
+          "client_id": "579878327216-i6aor3pn9hma0lsg9lifkf2m0tdgk8gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvT8jQWaH88sOlIBblLOJCYDWIuHKxTgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579878327216-i6aor3pn9hma0lsg9lifkf2m0tdgk8gq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
